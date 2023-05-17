@@ -1,0 +1,45 @@
+# Pines para la NEXYS4 (Artix-7)
+
+# Pin assignment for DispCtl
+# Connected to Basys2 onBoard 7seg display
+NET "led[0]" LOC = "T10" | IOSTANDARD = LVCMOS33; # Signal name = CA
+NET "led[1]" LOC = "R10" | IOSTANDARD = LVCMOS33; # Signal name = CB
+NET "led[2]" LOC = "K16" | IOSTANDARD = LVCMOS33; # Signal name = CC
+NET "led[3]" LOC = "K13" | IOSTANDARD = LVCMOS33; # Signal name = CD
+NET "led[4]" LOC = "P15" | IOSTANDARD = LVCMOS33; # Signal name = CE
+NET "led[5]" LOC = "T11" | IOSTANDARD = LVCMOS33; # Signal name = CF
+NET "led[6]" LOC = "L18" | IOSTANDARD = LVCMOS33; # Signal name = CG
+
+NET "an[7]" LOC = "U13" | IOSTANDARD = LVCMOS33; # Signal name = AN7
+NET "an[6]" LOC = "K2" | IOSTANDARD = LVCMOS33; # Signal name = AN6
+NET "an[5]" LOC = "T14" | IOSTANDARD = LVCMOS33; # Signal name = AN5
+NET "an[4]" LOC = "P14" | IOSTANDARD = LVCMOS33; # Signal name = AN4
+NET "an[3]" LOC = "J14" | IOSTANDARD = LVCMOS33; # Signal name = AN3
+NET "an[2]" LOC = "T9" | IOSTANDARD = LVCMOS33; # Signal name = AN2
+NET "an[1]" LOC = "J18" | IOSTANDARD = LVCMOS33; # Signal name = AN1
+NET "an[0]" LOC = "J17" | IOSTANDARD = LVCMOS33; # Signal name = AN0
+
+##Switches
+NET "reset" LOC = "L16" | IOSTANDARD = LVCMOS33;  # Signal name = SW1
+NET "ce" LOC = "J15" | IOSTANDARD = LVCMOS33;  # Signal name = SW0
+
+## Clock signal
+NET "clk" LOC = "E3" | IOSTANDARD = LVCMOS33; # Bank = 0, Signal name = MCLK
+
+
+
+# Pines para la BASYS2 (Spartan 3E)
+#NET "reset" LOC=p11; 
+#NET "ce" LOC=l3; 
+#NET "clk" LOC=b8;
+#NET "led[0]" LOC=l14;
+#NET "led[1]" LOC=h12;
+#NET "led[2]" LOC=n14;
+#NET "led[3]" LOC=n11;
+#NET "led[4]" LOC=p12;
+#NET "led[5]" LOC=l13;
+#NET "led[6]" LOC=m12;
+#NET "an[0]" LOC=f12;
+#NET "an[1]" LOC=j12;
+#NET "an[2]" LOC=m13;
+#NET "an[3]" LOC=k14;

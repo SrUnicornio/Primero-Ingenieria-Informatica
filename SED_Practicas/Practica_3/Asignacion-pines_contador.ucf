@@ -1,0 +1,25 @@
+# Atrix7 on Nexys 4
+
+# clock pin for Basys2 Board
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
+
+# Pin assigment for LEDs
+NET "count[0]"         LOC="H17" | IOSTANDARD=LVCMOS33; # Signal name = LD0
+NET "count[1]"         LOC="K15" | IOSTANDARD=LVCMOS33; # Signal name = LD1
+NET "count[2]"         LOC="J13" | IOSTANDARD=LVCMOS33; # Signal name = LD2
+NET "count[3]"         LOC="N14" | IOSTANDARD=LVCMOS33; # Signal name = LD3
+
+# led asigment
+NET "led[0]"             LOC="T10" | IOSTANDARD=LVCMOS33; # Signal name = CA
+NET "led[1]"             LOC="R10" | IOSTANDARD=LVCMOS33; # Signal name = CB
+NET "led[2]"             LOC="K16" | IOSTANDARD=LVCMOS33; # Signal name = CC
+NET "led[3]"             LOC="K13" | IOSTANDARD=LVCMOS33; # Signal name = CE
+NET "led[4]"             LOC="P15" | IOSTANDARD=LVCMOS33; # Signal name = CE
+NET "led[5]"             LOC="T11" | IOSTANDARD=LVCMOS33; # Signal name = CF
+NET "led[6]"             LOC="L18" | IOSTANDARD=LVCMOS33; # Signal name = CG
+
+# Pin assigment for SWs
+NET "ce"          	LOC="J15" | IOSTANDARD=LVCMOS33; # Signal name = SW0
+NET "reset"          LOC="L16" | IOSTANDARD=LVCMOS33; # Signal name = SW1
+
+NET "clk"           LOC="N17" | IOSTANDARD=LVCMOS33; # Signal name = BTNC
