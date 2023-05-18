@@ -1,4 +1,4 @@
-# Autor:Álvaro Pérez Ramos
+# Autor: Álvaro Pérez Ramos
 # Correo electrónico: alu0101574042@ull.edu.es
 # Fecha:9/03/2023
   .data

@@ -1,4 +1,4 @@
-# Autor: Juan Esteban Tamayo Marmolejo
+# Autor: Álvaro Pérez Ramos
 # Fecha ultima modificacion: 
 
 
