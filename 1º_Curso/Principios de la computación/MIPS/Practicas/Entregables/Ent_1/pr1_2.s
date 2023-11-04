@@ -1,6 +1,6 @@
-# Autor: Álvaro Pérez Ramos
-# Correo electrónico: alu0101574042@ull.edu.es
-# Fecha:9/03/2023
+# Autor: 
+# Correo electrónico: 
+# Fecha: 9/03/2023
   .data
 titulo: .asciiz "\n\nAproximación a sen(x) (-1 <= x <= 1) con un error máximo, usando Taylor\n"
 petx:   .asciiz "\n\nIntroduzca el valor de x (-1 <= x <= 1): "
