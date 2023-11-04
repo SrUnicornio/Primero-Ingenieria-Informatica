@@ -2,10 +2,6 @@
 #include <iostream>
 using namespace std;
 
-#include <iostream>
-using namespace std;
-
-
 bool is_balanced(int n) {
   int sum, sumOdd, digit;
   sum = sumOdd = 0;  
