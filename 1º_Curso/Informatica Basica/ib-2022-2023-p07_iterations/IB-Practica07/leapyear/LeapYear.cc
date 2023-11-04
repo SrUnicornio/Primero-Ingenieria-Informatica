@@ -1,16 +1,4 @@
-/**
- * Universidad de La Laguna
- * Escuela Superior de Ingeniería y Tecnología
- * Grado en Ingeniería Informática
- * Informática Básica 2022-2023
- *
- * @file LeapYears.cc
- * @author Alvao Perez Ramos alu0101574042@ull.edu.es
- * @date Oct 25 2022
- * @brief
- * @bug There are no known bugs
- * @see Write a program that tells if a year is or is not a leap year.
-
+/*
 A leap year has 366 days. After the Gregorian reform, the leap years are those
 multiple of four that do not end with two zeros, and also the years ending with
 two zeros such that, after removing these two zeros, are divisible by four.
