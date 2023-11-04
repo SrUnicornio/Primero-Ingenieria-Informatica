@@ -1,16 +1,3 @@
-/**
- * Universidad de La Laguna
- * Escuela Superior de Ingeniería y Tecnología
- * Grado en Ingeniería Informática
- * Informática Básica 2022-2023
- *
- * @file Problema2.cc
- * @author Alvao Perez Ramos alu0101574042@ull.edu.es
- * @date Nov 18 22
- * @brief Write a program that reads several numbers, and for each one prints the product of its digits, and the product of the digits of the latest product, etcetera, until the resulting product has just one digit.
- * @bug There are no known bugs
- * @see https://jutge.org/problems/P61061
- */
 #include <iostream>
 using namespace std;
 
