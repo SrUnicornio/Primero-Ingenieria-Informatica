@@ -5,10 +5,10 @@ using namespace std;
 int main() {
   int hora, minutos, segundos;
   cin >> hora >> minutos >> segundos;
-
+	
   while (hora >= 24 || minutos >= 60 || segundos >= 60) {
     if (segundos >= 60) {
-		cin >> segundos;
+			cin >> segundos;
     }
     if (minutos >= 60) {
       cin >> minutos;
