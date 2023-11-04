@@ -1,4 +1,4 @@
-# Autor: Álvaro Pérez Ramos
+# Autor:
 # Fecha inicio: 19/04/2023
 # Fecha ultima modificacion: 22/04/2023
 
