@@ -1,6 +1,6 @@
-// AUTOR: Álvaro Pérez Ramos
+// AUTOR:
 // FECHA: 18-04-2023
-// EMAIL: alu0101574042@ull.edu.es
+// EMAIL: 
 // VERSION: 2.0
 // ASIGNATURA: Algoritmos y Estructuras de Datos
 // TEMA: 5
