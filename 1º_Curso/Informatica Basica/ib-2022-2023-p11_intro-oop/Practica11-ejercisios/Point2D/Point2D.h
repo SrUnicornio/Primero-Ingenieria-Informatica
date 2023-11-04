@@ -1,10 +1,3 @@
-/*Create a class Point2D
- *Show() to print in screen the cordenates of the point
- *Move to change the coodenates os the point
- *Distance to calculate the distance between two points
- *Middle to calculate middle point
-*/
-
 #ifndef POINT2D_H
 #define POINT2D_H
 
