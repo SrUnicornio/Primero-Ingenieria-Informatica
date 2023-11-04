@@ -1,4 +1,4 @@
-# Autor: Álvaro Pérez Ramos
+# Autor: 
 # Fecha ultima modificacion: 
 
 
