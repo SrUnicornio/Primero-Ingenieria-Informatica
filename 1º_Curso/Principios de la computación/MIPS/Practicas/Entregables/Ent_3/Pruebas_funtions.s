@@ -1,5 +1,5 @@
 # Esqueleto PR3
-# Álvaro Pérez Ramos      30/03/2023      alu0101574042@ull.edu.es      1º GII    Universidad de La Laguna
+# 30/03/2023 1º GII    Universidad de La Laguna
 #nfil = 20             # numero de filas de la matriz
 #ncol = 10             # numero de columnas de la matriz
 maximoElementos = 400     # numero de enteros maximo reservado para la matriz 1600 bytes
