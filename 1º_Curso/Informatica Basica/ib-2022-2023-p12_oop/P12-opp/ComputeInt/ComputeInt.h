@@ -1,6 +1,3 @@
-//crea una clase ComputeInt
-//incluye un metodo para saber si un numero es perfecto o no
-
 #include <iostream>
 using namespace std;
 
