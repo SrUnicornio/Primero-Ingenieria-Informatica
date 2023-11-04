@@ -1,5 +1,5 @@
 # Esqueleto PR3
-# Álvaro Pérez Ramos      30/03/2023 - 03/04/2023      alu0101574042@ull.edu.es      1º GII    Universidad de La Laguna
+# 30/03/2023 - 03/04/2023 1º GII Universidad de La Laguna
 maximoElementos = 400     # numero de enteros maximo reservado para la matriz 1600 bytes
 size = 4              # bytes que ocupa un entero
     .data
