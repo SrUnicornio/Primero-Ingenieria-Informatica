@@ -1,0 +1,4 @@
+Para compilar: iverilog <archivo> la salida es un a.out
+               iverilog -o <nombre> <archivo> la salida es el <nombre>
+
+Simular: vvp <nombre> (de un test bench)
