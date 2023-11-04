@@ -1,6 +1,6 @@
-// AUTOR: Álvaro Pérez Ramos
+// AUTOR:
 // FECHA: 30/03/2023
-// EMAIL: alu0101574042@ull.edu.es
+// EMAIL:
 // VERSION: 3.0
 // ASIGNATURA: Algoritmos y Estructuras de Datos
 // PRÁCTICA Nº: 4
