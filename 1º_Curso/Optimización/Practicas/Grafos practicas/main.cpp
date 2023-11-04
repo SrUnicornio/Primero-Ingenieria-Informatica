@@ -11,7 +11,7 @@
 
 
 void menu (unsigned dirigido, char &opcion) { //Expresion del menu de opciones segun sea un grafo dirigido o no dirigido
-  cout << "Optimizacion en Grafos, 2020-2021 Alvaro Perez Ramos" << endl;
+  cout << "Optimizacion en Grafos << endl;
   cout << "c. [c]argar grafo desde fichero" << endl;
   cout << "i. Mostrar [i]nformacion basica del grafo" << endl;
   if (dirigido == 0) {//Grafo no dirigido
