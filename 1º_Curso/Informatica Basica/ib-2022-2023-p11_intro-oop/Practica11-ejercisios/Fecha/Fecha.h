@@ -1,7 +1,3 @@
-//Crear una clase Fecha que tenga los atributos dia, mes y año. La clase debe tener un constructor que reciba como parámetros los tres atributos y un método que imprima la fecha en formato dd/mm/aaaa.
-//Deba decir si es bisiesto o no.
-//Decir si es una fecha válida o no.
-
 #ifndef FECHA_H
 #define FECHA_H
 
