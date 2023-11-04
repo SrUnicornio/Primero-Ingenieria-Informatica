@@ -1,17 +1,4 @@
-/*
- * Universidad de La Laguna
- * Escuela Superior de Ingeniería y Tecnología
- * Grado en Ingeniería Informática
- * Informática Básica
- *
- * @author Álvaro Pérez Ramos
- * @date Dic 3 2022
- * @brief Escriba un programa rotate.cc que rote las vocales en minúscula 
-    que encuentre en el fichero que se le pase como parámetro por línea
-    de comandos, entendiendo por rotar el cambio de 'a' por 'e', 'e'por 'i', 
-    'i' por 'o', 'o' por 'u', 'u' por 'a'
- * @see https://github.com/IB-2022-2023/P10-files1/blob/main/files.md
- */
+
 #include <iostream>
 #include "cripto_fun.h"
 
